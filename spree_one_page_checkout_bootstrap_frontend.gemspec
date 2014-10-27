@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_one_page_checkout_bootstrap_frontend'
   s.version     = '2.3.1'
-  s.summary     = 'One page checkout with Spree Bootstrap Frontend'
-  s.description = 'Implement one page checkout with Spree. The goal here is to build a solution which is clean and elegant, especially taking into account the ability of the app to be easily updated when new version of Spree comes out.'
+  s.summary     = 'One page checkout with Spree and Bootstrap'
+  s.description = 'Implement one page checkout with Spree and Bootstrap'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Marcelo Espina'
